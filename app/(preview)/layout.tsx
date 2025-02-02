@@ -8,7 +8,7 @@ const geist = Geist({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
     // metadataBase: new URL('https://ai-sdk-preview-pdf-support.vercel.app'),
-    title: 'ReiBot 🤖📑',
+    title: 'Rei QuizBot 🤖📑',
     description: 'Study your pdf materials, The Smart way.',
     openGraph: {
         title: '',
