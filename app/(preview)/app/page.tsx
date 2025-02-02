@@ -115,6 +115,7 @@ export default function ChatWithFiles() {
             <Quiz
                 title={title ?? 'Quiz'}
                 questions={questions}
+                clearPDF={clearPDF}
             />
         )
     }
