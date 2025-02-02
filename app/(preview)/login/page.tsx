@@ -24,7 +24,7 @@ export default function LoginPage() {
     return (
         <main className="w-4/5 mx-auto min-h-screen gap-8 flex justify-center items-center flex-col">
             <div className="desc flex justify-center gap items-center flex-col">
-                <h1 className="text-3xl font-bold">ReiBot 🤖📑</h1>
+                <h1 className="text-3xl font-bold">Rei QuizBot 🤖📑</h1>
                 <h3 className="text-center text-lg font-medium">
                     Study your pdf materials, the Smart way.
                 </h3>
